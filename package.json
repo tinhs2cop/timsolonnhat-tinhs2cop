@@ -18,7 +18,7 @@
   "dependencies": {
     "@lananhxcnm130/lananh-async-storage": "0.0.1",
     "tinhdv-face-api.js": "0.22.5"
-  }
+  },
   "bugs": {
     "url": "https://github.com/tinhs2cop/timsolonnhat-tinhs2cop/issues"
   },
